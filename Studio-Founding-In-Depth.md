@@ -277,4 +277,144 @@ Reasonable inference from operational history:
 
 ## STUDIO 3: ZEXCS
 
+### Background: Who Is Tomoko Kawasaki?
+
+Tomoko Kawasaki came from J.C.Staff — one of Japan's most prolific mid-size studios, founded in 1986, known for volume output across genres. By the late 1980s and 1990s, J.C.Staff was doing steady OVA work. Kawasaki was a producer there and built her production craft on the kind of subcontract and OVA pipeline that defined the pre-streaming era.
+
+Her pre-ZEXCS credits at J.C.Staff include production work on:
+- *Ellcia* (1987 OVA)
+- *Fencer of Minerva* (1994 OVA, 6 episodes — fantasy/action)
+- *FAKE* (1996 OVA, single episode — boys' love manga adaptation by Sanami Matoh)
+
+The *FAKE* credit is notable: adapting a boys' love manga in 1996 was a niche market requiring both confidence in the source material and willingness to work outside mainstream demographics. It suggests Kawasaki's production instincts were not purely commercial-mainstream — she was willing to work with unconventional material, which later shows up in ZEXCS's output (e.g. full rotoscope on *The Flowers of Evil* in 2013).
+
+In January 1998, Kawasaki left J.C.Staff and founded ZEXCS.
+
+---
+
+### Founding
+
+- **Date:** January 23, 1998
+- **Location:** Koganei, Tokyo — a suburb in western Tokyo, not a central creative district. Lower rent than Shibuya or Setagaya.
+- **Legal structure:** Yugen Gaisha (YG) — the Japanese equivalent of a private limited company, the standard small-business structure of the era (YG was phased out in the 2006 Company Law reform; existing YGs were allowed to continue)
+- **Initial investment:** Not publicly disclosed
+- **Initial headcount:** Not on record
+- **Sister company relationship:** ZEXCS established an early operational relationship with **Feel** (anime studio, founded 2000), sharing production overhead. The exact structure — whether this was a formal capital relationship or an informal resource-sharing arrangement — is not clearly documented, but both studios operated in proximity and cross-staffed productions.
+
+---
+
+### First Work: Subcontract Photography (1998)
+
+ZEXCS did not launch with an original production. Its first documented industry work was photography assistance — specifically:
+
+- **Title:** *Blood Shadow* (OVA, 1998, Episodes 1–2)
+- **Role:** Photography department support (not lead studio)
+- **What "photography" means in anime:** In traditional cel animation, the photography department composites final cels, backgrounds, and effects onto film. It's technically demanding, invisible to viewers, and essential. It's also classic entry-level subcontract work for a new studio without a full production pipeline.
+
+This is textbook survival strategy: take technical subcontract work on someone else's production while building relationships and cash reserves.
+
+Shortly after, ZEXCS worked on selected episodes of **Yu-Gi-Oh!** (2000 series, Toei Animation), again in a support capacity.
+
+---
+
+### First Lead OVA: *10 Tokyo Warriors* (1999)
+
+- **Title:** *10 Tokyo Warriors* (*Juusenki L-Gaim* is unrelated — this is the Takehiko Itoh light novel)
+- **Type:** OVA series, Episodes 1–3 (later expanded)
+- **Year:** 1999 — approximately 1 year after founding
+- **Genre:** Action fantasy; light novel adaptation
+- **Significance:** First production where ZEXCS was lead studio, not subcontractor
+- **How they got it:** The J.C.Staff alumni network is the most likely explanation. Light novel OVA adaptations in the late 1990s were typically sold through publisher relationships + production committee structures. Kawasaki's existing industry relationships from J.C.Staff would have provided the access required to get a lead OVA commission within 12 months of founding. There is no documented cold-pitch story; it was relationship-driven.
+- **Revenue:** OVA production in Japan operates on a flat production committee fee model. The studio receives a contracted production fee; home video revenue goes to the committee. For a 3-episode OVA in 1999, this would have been a modest but real revenue event.
+
+---
+
+### First TV Series: *Sister Princess* (Spring 2001)
+
+- **Title:** *Sister Princess*
+- **Type:** 26-episode TV series
+- **Broadcaster:** TV Tokyo
+- **Air date:** Spring 2001 — approximately 3 years after founding
+- **Source material:** Originally a dating sim / media franchise with magazine serialisation
+- **Significance:** First full TV series for ZEXCS; moved the studio from OVA-only to TV production
+- **How they got it:** TV Tokyo slot acquisition in 2001 required either a strong production committee sponsor or a track record sufficient to satisfy a broadcaster. ZEXCS had the *10 Tokyo Warriors* OVA credit plus the J.C.Staff network. The specific commissioning path is not documented in public sources, but the J.C.Staff connection + OVA track record is the operative mechanism.
+- **Result:** *Sister Princess* ran a full 26-episode season and spawned a sequel series (*Sister Princess Re Pure*, 2002). Getting a sequel greenlit within 12 months of a first TV series is a strong commercial signal.
+
+---
+
+### Experimental Output: *The Flowers of Evil* (2013)
+
+Worth noting as the most documented risk ZEXCS ever took:
+
+- **Title:** *Aku no Hana* (*The Flowers of Evil*)
+- **Year:** 2013
+- **Technique:** Full rotoscope — every frame of animation traced over live-action footage, a technique almost never used in Japanese TV anime
+- **Source material:** A critically respected but dark and sexually charged manga by Shuzo Oshimi
+- **Reception:** Violently controversial in Japan. Viewers who wanted conventional animation hated it. Critics who valued formal experimentation praised it.
+- **Director:** Hiroshi Nagahama
+- **Significance for this study:** A studio with 15 years of survival instincts greenlit something that had a near-certain chance of audience rejection. This is only possible if the studio had a financial floor — presumably from the Feel co-production relationship and ongoing subcontract work — that allowed one experimental swing without existential consequences.
+
+---
+
+### Leadership Transition (August 2013)
+
+- **Event:** Tomoko Kawasaki stepped down as representative director
+- **Successor:** Kiyoshi Niitaku became CEO
+- **Timing:** The same year as *The Flowers of Evil* — whether these events are connected is not documented
+- **Significance:** ZEXCS is the only studio in this study where the founding CEO departed and the studio continued. 26-year continuity under two different CEOs is operationally notable.
+
+---
+
+### Cash Burn and Revenue
+
+**Not publicly available.** ZEXCS has never published financial statements.
+
+What can be inferred:
+- 26-year operating history (1998–2024+) with no reported bankruptcy or near-closure events
+- Survived the 2002 dot-com bust, the 2008 financial crisis, and the 2018 anime studio closure wave
+- Feel co-production relationship reduced fixed cost duplication
+- Selective output pace (never a volume-chasing studio) = controlled cost base
+- 12 OVAs over 20 years + periodic TV series = consistent but not aggressive revenue generation
+
+---
+
+### When Did ZEXCS Turn Profitable?
+
+**Unknown.** No data. The 26-year survival without reported distress is the only signal available.
+
+---
+
+### Timeline Summary
+
+| Year | Event |
+|------|-------|
+| Late 1980s–1997 | Kawasaki at J.C.Staff: *Ellcia*, *Fencer of Minerva*, *FAKE* OVA credits |
+| Jan 1998 | ZEXCS founded (YG structure), Koganei, Tokyo |
+| 1998 | Photography work on *Blood Shadow* OVA — first industry credit |
+| 1999 | *10 Tokyo Warriors* OVA (eps 1–3) — first lead production |
+| 2000 | Support work on *Yu-Gi-Oh!* (Toei) |
+| Spring 2001 | *Sister Princess* (TV Tokyo, 26 eps) — first TV series |
+| 2002 | *Sister Princess Re Pure* — sequel greenlit, TV Tokyo |
+| 2009 | *Chrome Shelled Regios* — most commercially successful title |
+| 2013 | *The Flowers of Evil* — full rotoscope; Kawasaki steps down, Niitaku takes over |
+| 2018 | Studio survives the record-closure year (16 closures industry-wide) |
+| 2024 | *Shadowverse F* — still active, 26 years after founding |
+
+---
+
+### Where The Information Runs Out
+
+- **Initial investment amount:** Not on record
+- **Cash burn at any stage:** Never disclosed
+- **Feel co-production deal terms:** Not public
+- **Kawasaki departure circumstances:** Not explained in any public source
+- **Revenue per title:** No public data
+- **First-profit date:** Unknown
+- **Current financial status:** Private; no filings accessible
+
+---
+---
+
+## STUDIO 4: LAY-DUCE
+
 *(Coming next)*
