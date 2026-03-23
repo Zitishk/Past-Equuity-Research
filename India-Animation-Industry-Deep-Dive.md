@@ -103,3 +103,72 @@ Green Gold's Hyderabad studio at the time of Chhota Bheem's launch had:
 When Pogo commissioned Chhota Bheem (2007–2008), Green Gold delivered episodes at a production cost within the license fee Pogo paid — covering approximately 60–80% of production cost per episode. The gap (20–40%) was covered by ancillary revenues (outsourcing work, later by merchandising).
 
 ---
+
+## LINK 3: THE BROADCASTER / COMMISSIONER
+
+### Who are they and why do they hold all the power?
+
+In Indian animation, the broadcaster is the **single most important party in the chain**. They are the buyer, the gatekeeper, and the primary source of production funding. Without a broadcaster's commission, an original animated series almost certainly does not get made — there is no mature alternative funding mechanism in India (no equivalent to France's CNC animation fund, no production committee model like Japan, limited co-production treaty financing).
+
+The major kids' broadcasters operating in India:
+
+| Broadcaster | Parent | Key Commissioned Shows |
+|------------|--------|----------------------|
+| **Pogo TV** | Turner Broadcasting → Warner Bros. Discovery | Chhota Bheem, Roll No. 21, Chimpoo Simpoo |
+| **Cartoon Network India** | Turner Broadcasting → Warner Bros. Discovery | Mix of US originals + Indian co-productions |
+| **Nickelodeon India** | Viacom18 (Reliance + Paramount JV) | Motu Patlu, Shiva, Rudra |
+| **Sony YAY!** | Sony Pictures Networks India | Honey Bunny, Chacha Bhatija |
+| **Disney Channel India** | The Walt Disney Company India | Mix of US originals + local commissions |
+| **DD National / DD Kids** | Doordarshan (Government of India) | Malgudi Days (historical), government-commissioned content |
+
+**Pogo's position:** At the time of Chhota Bheem's launch (2008), Pogo was the dominant dedicated kids' channel in India. Turner's India-specific brand for younger children. Pogo's programming director greenlit Chhota Bheem.
+
+---
+
+### Role: Broadcaster / Commissioner
+
+**What they provide:**
+- **Commission order:** A fixed number of episodes ordered (initial orders are typically 26 or 52 episodes in India)
+- **License fee:** A per-episode payment to the production studio for broadcast rights. This is the primary production funding mechanism.
+- **Broadcast slot:** A fixed timeslot in their programming grid (Chhota Bheem ran morning and after-school children's slots)
+- **Marketing:** On-channel promos, outdoor advertising, sometimes retail tie-ins
+- **First-window exclusivity:** A period (typically 1–2 years) during which the show cannot air on competing channels
+
+**What they do NOT typically do in India (unlike the US):**
+- They do not usually own the IP — in India the studio can retain rights if negotiated correctly. This is the Chhota Bheem model.
+- They do not employ the production team directly
+- They do not control downstream licensing and merchandising (if IP stays with studio)
+
+**What they take in exchange for the license fee:**
+- First-window broadcast rights for the agreed period
+- Sometimes a share of home video / DVD rights
+- Sometimes co-IP ownership if they co-invest beyond the license fee
+
+---
+
+### How the commission process works (step by step)
+
+1. **Pitch:** Studio presents concept bible, character designs, pilot episode or animatic to broadcaster's programming team
+2. **Straight commission:** India has almost no paid development stage culture — most shows go pitch-to-commission with no development funding
+3. **Commission order signed:** Broadcaster orders a season (26 or 52 episodes). Contract specifies:
+   - Per-episode license fee
+   - Delivery schedule (episodes per month)
+   - Technical specs (resolution, format, duration)
+   - Broadcast exclusivity terms
+   - IP ownership — the critical clause
+4. **Payment schedule:** License fees paid on delivery and acceptance of each episode, not upfront. Studio finances 4–6 weeks of production before payment arrives.
+5. **Renewal:** Good ratings = next season order. The studio keeps the IP regardless and can approach other broadcasters or exploit through other channels.
+
+---
+
+### The Chhota Bheem broadcaster relationship
+
+- **First broadcaster:** Pogo TV
+- **First air date:** January 9, 2008
+- **Timeslot:** Morning and after-school block — peak kids' viewership in India
+- **IP:** Green Gold retained full ownership. Pogo paid license fees for broadcast rights only.
+- **Renewal pattern:** Chhota Bheem ran continuously on Pogo for over a decade, multiple seasons. Became Pogo's highest-rated original Indian content.
+- **Ratings:** Became the #1 kids' show in India within its first year. BARC data from the 2010s consistently shows Chhota Bheem in top 5 kids' shows on Indian TV.
+- **What stable commission meant for Green Gold:** Predictable revenue stream → expand the studio → develop sequels → invest in theatrical films.
+
+---
