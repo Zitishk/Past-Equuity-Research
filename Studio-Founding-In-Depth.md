@@ -417,4 +417,162 @@ What can be inferred:
 
 ## STUDIO 4: LAY-DUCE
 
+### Background: Who Is Noritomo Yonai?
+
+Noritomo Yonai's career before Lay-duce is the clearest of the four founders covered here, and it's what makes his founding decision legible.
+
+Yonai was a producer at **Bones A Studio** — the prestige unit within Bones (the studio behind *Cowboy Bebop* follow-on work, *Fullmetal Alchemist*, *Wolf's Rain*, *Ouran High School Host Club*). Bones was founded in 1998 by ex-Sunrise producers and had a reputation for quality-over-volume output that is directly mirrored in what Lay-duce became.
+
+His most significant production credit at Bones is **Fullmetal Alchemist: Brotherhood** (2009) — the 64-episode remake of FMA that is still, as of 2026, ranked #1 on MyAnimeList by user score. Producing a 64-episode adaptation of one of the most beloved manga franchises in Japan, for a studio with Bones' reputation, is not a junior role. Yonai had full production management experience on a major franchise before he was 40.
+
+By 2013, he was ready to do it on his own terms.
+
+---
+
+### Founding
+
+- **Date:** August 9, 2013
+- **Location:** Nakano, Tokyo — a central Tokyo ward, known for Nakano Broadway (anime/manga retail) and proximity to several other studios
+- **Legal structure:** Kabushiki Kaisha (KK) — same as Studio Colorido; standard joint-stock company
+- **Initial investment:** Not publicly disclosed. However, a website associated with the first production (*Go! Go! 575*) contained language stating the project was made with "no sponsors" and "out of our own pockets." This is the closest thing to a public statement on initial funding that exists for Lay-duce.
+- **Initial team:** Not documented. Given the "no sponsors" framing and Bones freelancer network, likely a small core of trusted former colleagues.
+- **Key network asset:** Yonai maintained connections with Bones freelancers throughout the 2010s. Bones is known for having a strong alumni/freelancer ecosystem — directors, animators, and production staff who are comfortable working with Bones-affiliated producers. This network was Lay-duce's equivalent of Lapin Track's Brain's Base alumni pipeline.
+
+---
+
+### Twin Engine Co-Founding
+
+One element unique to Lay-duce among the four studios: Yonai did not just found a studio, he co-founded an industry holding structure.
+
+**Twin Engine** — the holding company that also controls MAPPA and Studio Colorido — was co-founded by Yonai alongside **Koji Yamamoto**, a producer from Fuji TV. The exact date of Twin Engine's formation relative to Lay-duce's founding is not clearly documented, but the relationship was in place by the mid-2010s.
+
+This matters for the financial picture: Yonai was not purely an indie founder scraping for first commissions. He had a structural relationship with a Fuji TV executive that provided access to broadcast relationships from an early stage. The "no sponsors, made from own pockets" framing of the first project may reflect the first few months before the Twin Engine structure was formalised, or it may reflect that specific project's budget model rather than the studio's overall capitalisation.
+
+---
+
+### First Work: *Go! Go! 575* (January 2014)
+
+- **Title:** *Go! Go! 575*
+- **Type:** TV short series, 4 episodes
+- **Air date:** January 9–30, 2014 — 5 months after studio founding
+- **Broadcaster:** Tokyo MX, TV Kanagawa, Niconico
+- **Source material:** Sega's *Project 575* — a rhythm/music game project
+- **Co-producer:** C2C (another small animation studio)
+- **Yonai's role:** Producer
+- **Revenue model:** Sega was the commissioning client. This was a promotional animation for a game property — Sega paying a flat production fee to animate marketing content for their game. Low risk, defined scope, guaranteed payment.
+- **The "no sponsors" note:** The *Go! Go! 575* website's language about no sponsors and self-funding suggests the project's budget was minimal — possibly below the threshold where production committees were formed. Sega as client, but lean production economics.
+- **What it proved:** Lay-duce could deliver a complete production inside 5 months of founding. That operational demonstration was the credential for the next commission.
+
+---
+
+### First Major Franchise Work: *Magi: Adventure of Sinbad* OVA (2014–2015)
+
+- **Title:** *Magi: Adventure of Sinbad* (*Magi: Sinbad no Bouken*)
+- **Type:** OVA series, 5 episodes
+- **Release:** May 2014 – July 2015 (bundled with manga volumes)
+- **Source material:** Spin-off manga of *Magi: The Labyrinth of Magic* — one of the top Shonen Sunday franchises of the period
+- **Publisher:** Shogakukan (major publisher — not a niche property)
+- **Significance:** This was Lay-duce's first contact with a major franchise. The bundled-manga OVA model (publisher funds OVA to drive limited-edition manga sales) meant Shogakukan was the client and carried commercial risk. Lay-duce received a production fee.
+- **How they got it:** The Bones connection is the operative mechanism. *Magi: The Labyrinth of Magic* was produced by A-1 Pictures, but the spin-off OVA market is more accessible to smaller studios with established producer relationships. Yonai's Bones track record — specifically FMA Brotherhood — was sufficient credential to receive a commission from a Shogakukan-level client.
+- **Revenue impact:** 5-episode OVA bundled with manga = 5 production fees spread across 14 months. Modest but steady.
+
+---
+
+### First Full TV Series: *Classroom Crisis* (2015)
+
+- **Title:** *Classroom Crisis*
+- **Type:** 13-episode TV series
+- **Air date:** July–September 2015
+- **Type:** Original anime (no manga/game source material)
+- **Producer:** Aniplex (Sony Music Entertainment Japan subsidiary — one of the most powerful anime production companies in the industry)
+- **Significance:** Lay-duce's first full-length original TV series, produced with Aniplex as the commissioning/lead producer. Aniplex's involvement meant access to broadcast slots, home video distribution, and marketing infrastructure that Lay-duce could not have self-assembled.
+- **How they got it:** Yonai's FMA Brotherhood credit was at a Bones/Aniplex-adjacent level of industry. Aniplex co-produced *FMA Brotherhood* through the production committee. Yonai was known to Aniplex from that production. Again: relationship-driven commission, not an open-market pitch.
+
+---
+
+### The Netflix Relationship (2024)
+
+- **Title:** *Rising Impact*
+- **Type:** Netflix Original anime series
+- **Release:** 2024
+- **Source material:** Golf manga by Nakaba Suzuki (creator of *The Seven Deadly Sins*)
+- **Significance:** Netflix's co-production model (fund production upfront, acquire global streaming rights) represents a structurally different revenue arrangement from the traditional production committee model. Netflix pays production costs and guarantees delivery revenue; the studio has no box office or home video exposure.
+- **Connection to Twin Engine:** MAPPA (also Twin Engine) has a Netflix relationship. Lay-duce's path to Netflix was likely facilitated through the Twin Engine holding structure and Yamamoto's Fuji TV industry relationships.
+
+---
+
+### Cash Burn and Revenue
+
+**Not publicly available.** No financial statements filed publicly.
+
+Operational inference:
+- *Go! Go! 575*: Sega client fee — modest but real, within 5 months of founding
+- *Magi* OVA: Shogakukan client fees across 14 months — stable
+- *Classroom Crisis*: Aniplex-backed TV — production fee at TV series scale
+- *O Maidens in Your Savage Season* (2019, Shogakukan/Aniplex): continuation of established client relationships
+- Twin Engine backing: Financial floor provided by holding structure; exact terms unknown
+- No reported financial distress events in public record
+
+---
+
+### When Did Lay-duce Turn Profitable?
+
+**Unknown.** No data. The presence of a holding company (Twin Engine) complicates the question — whether Lay-duce as an operating entity shows a standalone profit, or whether returns flow through Twin Engine's consolidated structure, is not distinguishable from public information.
+
+---
+
+### Timeline Summary
+
+| Year | Event |
+|------|-------|
+| 2009 | Yonai produces *Fullmetal Alchemist: Brotherhood* at Bones A Studio |
+| Aug 2013 | Lay-duce founded (KK), Nakano, Tokyo |
+| Jan 2014 | *Go! Go! 575* — 4-episode TV short (Sega/C2C co-production); "no sponsors, own pockets" |
+| May 2014 | *Magi: Adventure of Sinbad* OVA series begins (Shogakukan, 5 eps through Jul 2015) |
+| Jul 2015 | *Classroom Crisis* — first original TV series (Aniplex) |
+| 2016 | *Magi: Sinbad no Bouken* TV series (continuation, Aniplex) |
+| ~2016–2018 | Twin Engine structure formalised with Fuji TV's Koji Yamamoto |
+| 2019 | *O Maidens in Your Savage Season* (Shogakukan/Aniplex) |
+| 2023 | *Tomo-chan Is a Girl!* |
+| 2024 | *Rising Impact* — Netflix Original |
+
+---
+
+### Where The Information Runs Out
+
+- **Initial investment amount:** Only signal is "no sponsors, own pockets" for first project
+- **Twin Engine deal terms:** Not public
+- **Cash burn figures:** Never disclosed
+- **Exact headcount at founding or any point:** Not on record
+- **First-profit date:** Unknown; further complicated by Twin Engine consolidation
+- **Yonai's personal capital at founding:** Not disclosed
+
+---
+---
+
+## NOTE ON THE FOUR STUDIOS: WHAT RUNS OUT
+
+At this point, all four indie studios have been covered to the limit of what is publicly available. The honest summary:
+
+| Question | Colorido | Lapin Track | ZEXCS | Lay-duce |
+|----------|----------|-------------|-------|----------|
+| Founder identity | **Known** | **Known** | **Known** | **Known** |
+| Founding date | **Known** | **Known** | **Known** | **Known** |
+| Initial investment | Unknown | Unknown | Unknown | Partial ("own pockets") |
+| Cash burn | Unknown | Unknown | Unknown | Unknown |
+| First work | **Known** | **Known** | **Known** | **Known** |
+| How first contract was won | Inferred | Inferred | Inferred | Inferred |
+| First revenue | Inferred range | Inferred range | Inferred range | Inferred range |
+| First profit date | Unknown | Unknown | Unknown | Unknown |
+
+None of these studios have made financial disclosures. Japan's private company disclosure requirements are minimal. The pattern of *how* they survived is reconstructable (subcontract → OVA → TV, alumni networks, co-production structures), but the *numbers* are not on record.
+
+---
+---
+
+## STUDIO 5: STUDIO TRIGGER
+### (Switching to a well-documented studio)
+
+Trigger is the best-documented independent anime studio founding in the English-language public record. The founders gave extensive interviews, the Kickstarter campaign created a paper trail, and the studio's critical profile attracted journalist attention early. What follows is substantially more complete than the four studios above.
+
 *(Coming next)*
